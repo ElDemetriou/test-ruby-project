@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 gem 'fastreader'
-gem 'rack', '~> 1.1'
+gem 'rack', '~> 3.0', '>= 3.0.0'
 gem 'rspec'
-gem 'pdfkit', '~> 0.5'
+gem 'pdfkit', '~> 0.8', '>= 0.8.7.2'
